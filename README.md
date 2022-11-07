@@ -1,3 +1,4 @@
 # M-shop
-Small multie vendors ecommerce website
+M-Shop is Small multie vendors ecommerce website
+
 
